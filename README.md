@@ -1,10 +1,10 @@
 # Ejercicios de estructura de control 2
 ## Selectivas y Repetitivas
 
-Nombre:
+Nombre:Willaim Jarod Rojas Criollo
 --
 
-Github Username:
+Github Username:jarod429
 --
 
 Instrucciones:
